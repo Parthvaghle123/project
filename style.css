@@ -1,0 +1,41 @@
+.box1 {
+    min-height: 140px;
+  }
+  .box {
+    min-height: 200px;
+    border: 1px solid #ccc;
+  }
+  .hero-section {
+    min-height: 220px;
+    background-color: white;
+  }
+  .hero-section1 {
+    min-height: 520px;
+    background-color: rgba(214, 210, 210, 0.858);
+  }
+  .box1{
+    transition: all 0.5s;
+  }
+  .box1:hover {
+    transform: scale(1.15);
+}
+.box{
+  border-radius: 25px;
+  background-color: whitesmoke;
+}
+.btn{
+border-radius: 20px;
+}
+.form-control{
+  border-radius: 50px;
+}
+.hero-section2{
+  min-height: 70px;
+}
+.hero-section3{
+  min-height: 530px;
+  background-color: rgba(214, 210, 210, 0.858);
+}
+.card-title{
+  margin-top: 180px;
+}

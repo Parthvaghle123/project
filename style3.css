@@ -1,0 +1,25 @@
+.form-control{
+    border-radius: 50px;
+  }
+.btn{
+    border-radius: 20px;
+ }
+ .hero-section{
+    background-color:white;
+    min-height: 500px;
+ }
+.box {
+    min-height: 200px;
+    border: 1px solid #ccc;
+    border-radius: 25px;
+    background-color: rgba(237, 233, 233, 0.811);
+    transition: 1s;
+  }
+.box:hover{
+    background-color: whitesmoke;
+    box-shadow:3px 3px 3px gray;
+
+}
+.head{
+    color: rgb(154, 146, 146) ;
+}
